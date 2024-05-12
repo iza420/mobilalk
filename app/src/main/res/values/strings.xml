@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">To-Do app</string>
+    <string name="app_name">To-Do App</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="account_mark"><u>Don\'t have an account?</u></string>
+    <string name="register">Register</string>
+    <string name="registration">Registration</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="cancel">Cancel</string>
+    <string name="maximize">Maximize your potential with our app today!</string>
+    <string name="haveanaccount"><u>Already have an account?</u></string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_username">Enter Your Username</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="hi_welcome_back">Hi, Welcome Back! 👋</string>
+    <string name="example_email">example@gmail.com</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="create_task">Create Task</string>
+    <string name="set_due_date">Set Due Date</string>
+    <string name="enter_task">Enter Task</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="or_with">Or with</string>
+    <string name="default_web_client_id">846851137624-7u8gn51ckaeubbnj668ocge9ql3ajmg5.apps.googleusercontent.com</string>
 </resources>

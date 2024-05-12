@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="green">#4B6045</color>
+    <color name="Bg_green">#324646</color>
+    <color name="whiteish">#99FFFFFF</color>
+    <color name="whiteishBG">#DCDCDC</color>
+    <color name="DarkGrey">#252525</color>
+    <color name="LightGrey">#4E4D4D</color>
+
 </resources>
